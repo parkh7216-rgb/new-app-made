@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "한글 맞춤법 고난도 연습",
+  "short_name": "맞춤법 연습",
+  "lang": "ko-KR",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf8f4",
+  "theme_color": "#2f5d50",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
